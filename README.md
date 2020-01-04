@@ -64,6 +64,7 @@ This is intended to eventually be a guide or eventually even a book about the de
 * [Procedural Generation](#procedural-generation)
 * [Compression & Size Coding](#compression-and-size-coding)
 * [Shaders](#shaders)
+* [Running Demoparties](#running-demoparties)
 
 **Demoparties**
 
@@ -194,6 +195,9 @@ This is intended to eventually be a guide or eventually even a book about the de
 
 # <a id="shaders"></a> Shaders
 <!-- Explain GPU Compute, Pixel and Vertex Shaders and Shader Showdown -->
+
+# <a id="running-parties"></a> Running Demoparties
+<!-- Basic explanation about venue hire, insurance, invites, competitions, equipment hire, outreach, infrastructure, power, etc -->
 
 # <a id="demoparties-in-depth"></a> Demoparties In Depth
 <!-- Maybe redundant -->
