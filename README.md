@@ -63,6 +63,7 @@ This is intended to eventually be a guide or eventually even a book about the de
 * [Realtime and preferred viewing conventions](#realtime-and-preferred-viewing-conventions)
 * [Procedural Generation](#procedural-generation)
 * [Compression & Size Coding](#compression-and-size-coding)
+* [Hardware vs. Software Rendering](#hardware-vs-software-rendering)
 * [Shaders](#shaders)
 * [Running Demoparties](#running-demoparties)
 
@@ -128,7 +129,7 @@ This is intended to eventually be a guide or eventually even a book about the de
 <!-- Explain differentation from executable productions and scope -->
 
 # <a id="notable-productions"></a>Notable Productions
-<!-- Maybe opt for scene.org award winners and other notables like Edge of Disgrace / Debris / Elevated -->
+<!-- Maybe opt for scene.org award winners and other notables like Edge of Disgrace / Debris / Elevated / Overdrive  / Batman Forever -->
 
 # <a id="old-school-platforms"></a> Old School Platforms
 <!-- Explain resource limitation of older platforms and cultural significance of the larger platforms as well as a footnote for other also-ran platforms like BBC -->
@@ -185,13 +186,16 @@ This is intended to eventually be a guide or eventually even a book about the de
 <!-- Maybe redundant -->
 
 # <a id="realtime-and-preferred-viewing-conventions"></a> Realtime and preferred viewing conventions
-<!-- Explain importance of running demos on native platforms (CRT, refresh rates, accuracy, cultural context) -->
+<!-- Explain importance of running demos on native platforms (CRT, refresh rates, accuracy, cultural context, aspect ratios) -->
 
 # <a id="procedural-generation"></a> Procedural Generation
 <!-- Explain procedural generation with some examples (Elevated, FR-08 etc) -->
 
 # <a id="compression-and-size-coding"></a> Compression & Size Coding
 <!-- Explain the motivations behind size coding and some basic techniques -->
+
+# <a id="hardware-vs-software-rendering"></a>Hardware vs. Software Rendering
+<!-- Describe the differences between hardware and software rendering -->
 
 # <a id="shaders"></a> Shaders
 <!-- Explain GPU Compute, Pixel and Vertex Shaders and Shader Showdown -->
