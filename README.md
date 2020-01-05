@@ -40,9 +40,7 @@ This is intended to eventually be a guide or eventually even a book about the de
 
 * [New School Platforms](#new-school-platforms)
   * [PC](#pc)
-  * [Others](#others)
-
-* [Wild & Animation](#wild-and-animation)
+  * [Other New School Platforms](#other-new-school-platforms)
 
 **Music**
 
@@ -53,7 +51,7 @@ This is intended to eventually be a guide or eventually even a book about the de
 
 **Programming**
 
-* [Assembly](#assembly)
+* [Assembly Programming](#assembly-programming)
 * [C / C++](#c)
 * [Content Creation Tools](#content-creation-tools)
 
@@ -155,11 +153,8 @@ This is intended to eventually be a guide or eventually even a book about the de
 # <a id="pc"></a> PC
 <!-- Explain PC origins to present day and iterative improvements -->
 
-# <a id="others"></a> Others
+# <a id="other-new-school-platforms"></a> Other New School Platforms
 <!-- PICO8 / 32/64-bit bus computers / maybe consoles -->
-
-# <a id="wild-and-animation"></a> Wild & Animation
-<!-- Mention notable wild productions (LFT microcontroller demos), installations, HBC animations etc -->
 
 # <a id="chiptune-music"></a> Chiptune Music
 <!-- Describe popular chips (SID/AY/POKEY etc), limitations, characteristics, motivations with examples -->
@@ -173,7 +168,7 @@ This is intended to eventually be a guide or eventually even a book about the de
 # <a id="streaming-music"></a> Streaming Music
 <!-- Explain streaming music -->
 
-# <a id="assembly"></a> Assembly
+# <a id="assembly-programming"></a> Assembly Programming
 <!-- Explain the difference between assembly and compiled code and motivations for its use -->
 
 # <a id="c"></a> C / C++
